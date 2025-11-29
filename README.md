@@ -189,6 +189,4 @@ MSFD_SwaggerApiClientLab/
 
 ---
 
-.NET 9.0 Console Application built for the Microsoft Back-End Development course as part of the Full-Stack Certification track. This application demonstrates Swagger API client generation, ASP.NET Core web API development, and NSwag code generation for the Microsoft Full Stack Developer certification.
-
-.NET 9.0 Console Application built for the Microsoft Back-End Development course as part of the Full-Stack Certification track. 
+.NET 9.0 Console Application built for the Microsoft Back-End Development course as part of the Full-Stack Certification track. This application demonstrates Swagger API client generation, ASP.NET Core web API development, and NSwag code generation for the Microsoft Full-Stack Developer Certification track. 
