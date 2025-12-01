@@ -133,16 +133,16 @@ var user = await apiClient.UsersAsync(1, CancellationToken.None);
 
 ```
 MSFD_SwaggerApiClientLab/
-├── Program.cs                    # Main application with server and client demo
-├── ClientGenerator.cs                # NSwag client generation logic
+├── Program.cs                      # Main application with server and client demo
+├── ClientGenerator.cs              # NSwag client generation logic
 ├── Controllers/
-│   └── UserController.cs               # Sample API controller
-├── GeneratedApiClient.cs         # Auto-generated API client
-├── MSFD_SwaggerApiClientLab.csproj    # Project configuration
-├── MSFD_SwaggerApiClientLab.sln          # Solution file
-├── bin/                          # Compiled binaries
-├── obj/                          # Build artifacts
-└── README.md            # This file
+│   └── UserController.cs           # Sample API controller
+├── GeneratedApiClient.cs           # Auto-generated API client
+├── MSFD_SwaggerApiClientLab.csproj # Project configuration
+├── MSFD_SwaggerApiClientLab.sln    # Solution file
+├── bin/                            # Compiled binaries
+├── obj/                            # Build artifacts
+└── README.md                       # This file
 ```
 
 ## Development Workflow
