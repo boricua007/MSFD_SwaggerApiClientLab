@@ -177,8 +177,6 @@ MSFD_SwaggerApiClientLab/
 • **Type Safety:** Compile-time checking for API interactions  
 • **Separation of Concerns:** Clear separation between API server and client code
 
-.NET 9.0 Console Application built for the Microsoft Back-End Development course as part of the Full-Stack Certification track. This app demonstrates modern API development patterns with automated client generation - essential skills for full-stack developers building scalable web applications.
-
 ## API Endpoints
 
 | Method | Endpoint | Description | Response |
@@ -189,4 +187,4 @@ MSFD_SwaggerApiClientLab/
 
 ---
 
-.NET 9.0 Console Application built for the Microsoft Back-End Development course as part of the Full-Stack Certification track. This application demonstrates Swagger API client generation, ASP.NET Core web API development, and NSwag code generation for the Microsoft Full-Stack Developer Certification track. 
+.NET 9.0 Console Application built for the Microsoft Back-End Development course as part of the Full-Stack Certification track. This application demonstrates Swagger API client generation, ASP.NET Core web API development, and NSwag code generation - essential skills for full-stack developers building scalable web applications for the Microsoft Full-Stack Developer Certification track. 
